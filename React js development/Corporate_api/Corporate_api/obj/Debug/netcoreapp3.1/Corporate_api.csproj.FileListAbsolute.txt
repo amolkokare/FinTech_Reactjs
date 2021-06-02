@@ -29,3 +29,34 @@ C:\Users\ADMIN\Desktop\New folder\Corporate_api\Corporate_api\bin\Debug\netcorea
 C:\Users\ADMIN\Desktop\New folder\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\ADMIN\Desktop\New folder\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\ADMIN\Desktop\New folder\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.exe
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.deps.json
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.runtimeconfig.json
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.runtimeconfig.dev.json
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Corporate_api.pdb
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.csprojAssemblyReference.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.AssemblyInfoInputs.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.AssemblyInfo.cs
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.csproj.CoreCompileInputs.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_api.StaticWebAssets.Manifest.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\staticwebassets\Corporate_api.StaticWebAssets.xml
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Corporate_api.styles.css
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.RazorTargetAssemblyInfo.cache
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.csproj.CopyComplete
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.dll
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.pdb
+E:\GitHub repo\FinTech_Reactjs\React js development\Corporate_api\Corporate_api\obj\Debug\netcoreapp3.1\Corporate_api.genruntimeconfig.cache

@@ -663,19 +663,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\FinTech_Reactjs\\.Net api\\FinTech_Website\\FinTech_Website.csproj",
+      "projectUniqueName": "E:\\GitHub repo\\FinTech_Reactjs\\.Net api\\FinTech_Website\\FinTech_Website.csproj",
       "projectName": "FinTech_Website",
-      "projectPath": "D:\\Github\\FinTech_Reactjs\\.Net api\\FinTech_Website\\FinTech_Website.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\FinTech_Reactjs\\.Net api\\FinTech_Website\\obj\\",
+      "projectPath": "E:\\GitHub repo\\FinTech_Reactjs\\.Net api\\FinTech_Website\\FinTech_Website.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "E:\\GitHub repo\\FinTech_Reactjs\\.Net api\\FinTech_Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -728,7 +728,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
