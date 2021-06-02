@@ -1,0 +1,215 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.CorporateTraining,.Microsoft,.home,.NewCourse,.ManisHiring,.Sap,.MotivationalTraining,.Cisco,.ContactUs,.SocialResponsbility{
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+}
+.ab h1 {
+    background: linear-gradient(90deg, rgb(00, 50, 73) 0%, #107dac 100%);
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    font-size: 2rem;
+    color: #fff;
+    margin-top: 1%;
+    margin-left: 6%;
+    margin-right: 6%;
+  }
+  .heading{
+    display: flex;
+    
+    
+    
+  
+      justify-content: center;
+    font-size: 3rem;
+    
+    margin-top: 4%;
+    margin-bottom: 1%;
+    margin-left: 5%;
+    
+
+  }
+  .heading1{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 1%;
+    margin-left: 6%;
+    margin-top: 0%;
+    
+    height:center;
+  
+  }
+  .ab h2{
+    margin-top: 2%;
+    text-align: center;
+    color:rgb(00, 50, 73) ;
+}
+.container
+{
+  display: grid;
+  grid-template-columns:repeat(4, 4fr);
+
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: flex-start;
+  border: 1px solid transparent;
+  border-color: black;
+  background-color: rgba(211, 241, 241, 0.425);
+  
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-right: 3%;
+  margin-bottom: 14px;
+width: 80%;
+height: 80%;
+}
+ .ig{
+  margin-top: 2%;
+  text-align: center;
+  color:rgb(00, 50, 73) ;
+}
+ 
+  
+
+
+
+  .ab p{
+      margin-top: 2%;
+      margin-left: 6%;
+    margin-right: 6%;
+
+  }
+  .ab h3{
+    margin-top: 2%;
+    margin-left: 6%;
+  margin-right: 6%;
+  font-size: 3rem;
+
+}
+.ab img{
+    
+    border: 1px solid transparent;
+    border-color: black;
+    margin-top: 2%;
+    margin-left: 6%;
+  margin-right: 6%;
+  width: 80%;
+  height: 80%;
+}
+
+.home{
+    background-image: url('./f new.bmp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(14, 2, 2);
+    margin-top: 2%;
+    margin-left: 6%;
+    margin-right: 6%;
+    
+}
+
+.home h2{
+    font-size: 30px;
+    font-style:inherit;
+    align-items:left;
+    margin-bottom: 10%;
+    margin-right: 50%;
+    margin-left:2%;
+
+}
+
+.bc {
+    color: #107dac;
+    
+}
+.ab{
+    font-size:20px;
+    line-height:60px;
+    color:rgb(44,44,44);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ef img{
+    border: 1px solid transparent;
+    border-color: black;
+    margin-top: 2%;
+    margin-left: 10%;
+  margin-right: 4%;
+  width: 80%;
+  height: 200px;
+
+    }
+    .tb{
+      width: 80%;
+      height: 70px;
+      margin-top: 5%;
+      background-color:rgb(221, 231, 231);
+    }
+    .btn{
+      background-color: green !important;
+      padding: 3px 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    
+    }
+    .img1{
+      border: 4px solid rgb(218, 34, 34);
+      
+      display: grid;
+  grid-template-columns:repeat(4, 4fr);
+
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  align-content: flex-start;
+  border: 1px solid transparent;
+  border: 2px solid rgb(19, 16, 16);
+ 
+  margin-top: 3%;
+  margin-left: 10%;
+  margin-right: 3%;
+  margin-bottom: 14px;
+width: 80%;
+height: 80%;
+    }
+   .h5 {
+      font-size: 25;
+      font-style:inherit;
+      align-items:left;
+      margin-bottom: 10%;
+      margin-right: 50%;
+      margin-left:2%;
+       margin-top: 5%;
+  
+  }
+  .abt{
+    margin-top: 5%;
+  margin-left: 10%;
+  margin-right: 3%;
+  }
+  .banner .btn{
+    margin-top: 0%;
+    margin-left: 31.5%;
+    margin-right: 3%;
+  }
+  .pic{
+    width: 10%;
+    height: 10%;
+    margin-left: 30.7%;
+    margin-top: 5%;
+    
+  }
+  
