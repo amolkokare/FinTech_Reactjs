@@ -29,6 +29,7 @@ C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\
 C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\FinTech_Website.dll
 C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\FinTech_Website.pdb
 C:\Users\ADMIN\Desktop\New folder\Corporate_Website\Corporate_Website\obj\Debug\netcoreapp3.1\FinTech_Website.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.exe
@@ -60,3 +61,36 @@ D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTe
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.dll
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.pdb
 D:\Github\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.genruntimeconfig.cache
+=======
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\appsettings.json
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.exe
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.deps.json
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.runtimeconfig.json
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.runtimeconfig.dev.json
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\FinTech_Website.pdb
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.csprojAssemblyReference.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.AssemblyInfoInputs.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.AssemblyInfo.cs
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.csproj.CoreCompileInputs.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.MvcApplicationPartsAssemblyInfo.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\staticwebassets\FinTech_Website.StaticWebAssets.Manifest.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\staticwebassets\FinTech_Website.StaticWebAssets.xml
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\scopedcss\bundle\FinTech_Website.styles.css
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.RazorTargetAssemblyInfo.cache
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.csproj.CopyComplete
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.dll
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.pdb
+E:\GitHub repo\FinTech_Reactjs\.Net api\FinTech_Website\obj\Debug\netcoreapp3.1\FinTech_Website.genruntimeconfig.cache
+>>>>>>> aeab1890e4c52bfa233dd62b6e1b7eb49aa9d536
