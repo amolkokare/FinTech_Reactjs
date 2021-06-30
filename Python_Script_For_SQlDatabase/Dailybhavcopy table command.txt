@@ -1,0 +1,16 @@
+CREATE TABLE [dbo].[DAILYBHAVCOPY](
+	[SYMBOL] [varchar](100) NULL,
+	[SERIES] [varchar](100) NULL,
+	[OPEN1] [float] NULL,
+	[HIGH1] [float] NULL,
+	[LOW1] [float] NULL,
+	[CLOSE1] [float] NULL,
+	[LAST1] [float] NULL,
+	[PREVCLOSE] [float] NULL,
+	[TOTTRDQTY] [float] NULL,
+	[TOTTRDVAL] [float] NULL,
+	[TIMESTAMP1] [varchar](100) NULL,
+	[TOTALTRADES] [bigint] NULL,
+	[ISIN] [nvarchar](100) NULL
+) ON [PRIMARY]
+GO
