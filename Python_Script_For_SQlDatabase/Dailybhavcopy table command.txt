@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[DAILYBHAVCOPY](
+CREATE TABLE [dbo].[BHAVCOPY](
 	[SYMBOL] [varchar](100) NULL,
 	[SERIES] [varchar](100) NULL,
 	[OPEN1] [float] NULL,
