@@ -1,0 +1,13 @@
+USE [NSEDATA]
+GO
+CREATE TABLE [dbo].[SMADATAANAYLYSIS](
+	[SYMBOL] [varchar](50) NULL,
+	[CLOSE1] [float] NULL,
+	[TIMESTAMP1] [varchar](50) NULL,
+	[sma05] [float] NULL,
+	[sma10] [float] NULL,
+	[sma20] [float] NULL,
+	[sma50] [float] NULL,
+	[sma200] [float] NULL
+) ON [PRIMARY]
+GO

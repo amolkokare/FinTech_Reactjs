@@ -1,0 +1,13 @@
+USE [NSEDATA]
+GO
+CREATE TABLE [dbo].[Percentage_VolumeData](
+	[SYMBOL] [varchar](50) NULL,
+	[CLOSE1] [float] NULL,
+	[TIMESTAMP1] [varchar](50) NULL,
+	[Percentage_change] [float] NULL,
+	[Avg_Price_5days] [float] NULL,
+	[Avg_Vol_20day] [float] NULL,
+	[Relative_Volume] [float] NULL
+	
+	) ON [PRIMARY]
+GO

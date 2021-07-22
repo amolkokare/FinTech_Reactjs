@@ -1,0 +1,13 @@
+USE [NSEDATA]
+GO
+CREATE TABLE [dbo].[HIGH_LOW_52_Week_Data](
+	[SYMBOL] [varchar](50) NULL,
+	[CLOSE1] [float] NULL,
+	[TIMESTAMP1] [varchar](50) NULL,
+	
+	[52WEEKHIGH] [float] NULL,
+	[52WEEKLOW] [float] NULL,
+	[Away_52WeekHigh] [float] NULL,
+	[Away_52WeekLow] [float] NULL
+) ON [PRIMARY]
+GO
