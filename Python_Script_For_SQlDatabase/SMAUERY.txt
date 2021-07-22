@@ -1,0 +1,32 @@
+USE [NSEDATA]
+GO
+
+/****** Object:  Table [dbo].[NSEAnalysisData]    Script Date: 7/22/2021 12:15:49 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[NSEAnalysisData](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[SYMBOL] [varchar](50) NULL,
+	[CLOSE1] [float] NULL,
+	[TIMESTAMP1] [date] NULL,
+	[sma05] [float] NULL,
+	[sma10] [float] NULL,
+	[sma20] [float] NULL,
+	[sma50] [float] NULL,
+	[sma200] [float] NULL,
+	[WEEKHIGH] [float] NULL,
+	[WEEKLOW] [float] NULL,
+	[Percentage_change] [float] NULL,
+	[Avg_Price_5days] [float] NULL,
+	[Avg_Vol_20day] [float] NULL,
+	[Relative_Volume] [float] NULL,
+	[Away_52WeekHigh] [float] NULL,
+	[Away_52WeekLow] [float] NULL
+) ON [PRIMARY]
+GO
+
+
