@@ -9,33 +9,29 @@ namespace Corporate_Website.Models
 {
     public class Fintech
     {
-        
+
         public int FintechId { get; set; }
-        
         public string SYMBOL { get; set; }
-        public DateTime TIMESTAMP { get; set; }
-        
-        
-        
-        public string HIGH { get; set; }
-        public decimal LOW { get; set; }
-       
-        public decimal Volume { get; set; }
+        public string CLOSE1 { get; set; }
+        public string TIMESTAMP1 { get; set; }
+
         public decimal sma05 { get; set; }
+
         public decimal sma10 { get; set; }
-        public decimal sma15 { get; set; }
         public decimal sma20 { get; set; }
         public decimal sma50 { get; set; }
-        public decimal sma200 { get; set; }
-        public decimal Percent_of_Price_Change5_days { get; set; }
-        public decimal Volume_changein_20Days { get; set; }
-        public decimal Relative_Volume { get; set; }
-        
-        public decimal WeekHigh52 { get; set; }
-        public decimal WeekLow52 { get; set; }
-        public decimal Away_From_52WeekHigh { get; set; }
-        public decimal Away_From_52WeekLow { get; set; }
-        
+        public decimal sma100 { get; set; }
+        public decimal WEEKHIGH { get; set; }
+        public decimal WEEKLOW { get; set; }
 
+        public decimal Relative_Volume { get; set; }
+
+        public decimal Percentage_change { get; set; }
+
+        public decimal Avg_Price_5days { get; set; }
+        public decimal Avg_Vol_20day { get; set; }
     }
 }
+
+
+
