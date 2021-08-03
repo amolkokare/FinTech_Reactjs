@@ -14,7 +14,7 @@ namespace Corporate_Website.Models
         public string SYMBOL { get; set; }
         public string CLOSE1 { get; set; }
         public string TIMESTAMP1 { get; set; }
-       
+
         public decimal sma05 { get; set; }
 
         public decimal sma10 { get; set; }
@@ -25,15 +25,13 @@ namespace Corporate_Website.Models
         public decimal WEEKLOW { get; set; }
 
         public decimal Relative_Volume { get; set; }
-        
-        public decimal Per_chng_1D { get; set; }
+
+        public decimal Percentage_change { get; set; }
 
         public decimal Avg_Price_5days { get; set; }
-        public int Volume { get; set; }
         public decimal Avg_Vol_20day { get; set; }
     }
 }
 
-        
 
-    
+
