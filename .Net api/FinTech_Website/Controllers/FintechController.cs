@@ -24,7 +24,11 @@ namespace Corporate_Website.Controllers
 
         public JsonResult Get()
         {
-            string query = @"select SYMBOL,TIMESTAMP,HIGH,LOW ,Volume,sma05,sma10,sma15,sma20,sma50,sma200,Percent_of_Price_Change5_days,Volume_changein_20Days,Relative_Volume,WeekHigh52,WeekLow52,Away_From_52WeekHigh,Away_From_52WeekLow from dbo.Fintech ";
+            string query = @"select  top(100) SYMBOL, CLOSE1, WEEKHIGH,WEEKLOW, Away_52WeekHigh,TIMESTAMP1
+  from dbo.NSEAnalysisData where CLOSE1=WEEKHIGH AND Away_52WeekHigh<5
+  AND TIMESTAMP1 in (select Max(TIMESTAMP1) from dbo.NSEAnalysisData SYMBOL)
+  Order by WEEKHIGH desc
+ ";
             DataTable table = new DataTable();
             string sqlDataSource = _configuration.GetConnectionString("DatabaseAppCon");
             SqlDataReader myReader;
@@ -33,6 +37,7 @@ namespace Corporate_Website.Controllers
                 myCon.Open();
                 using (SqlCommand myCommand = new SqlCommand(query, myCon))
                 {
+
                     myReader = myCommand.ExecuteReader();
                     table.Load(myReader);
 
